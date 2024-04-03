@@ -109,8 +109,8 @@ const Footer = () => {
                 <div className='hidden sm:block'>
                     <p className='pb-2 text-2xl underline hover:text-orange-600'>Newsletter</p>
                     <div className='flex'>
-                    <input type="text" placeholder='email' className='p-2' />
-                    <button className='bg-orange-600 p-2'>Subscribe</button>
+                    <input type="text" placeholder='email' className='p-2 text-black' />
+                    <button className='bg-orange-600 hover:bg-orange-700 p-2'>Subscribe</button>
                     </div>
                 </div>
 
@@ -182,8 +182,8 @@ const Footer = () => {
         </div>
 
         <div className='block sm:hidden flex items-center justify-center pb-4'>
-            <input type="text" placeholder='email' className='p-2' />
-            <button className='bg-orange-600 p-2'>Subscribe</button>
+            <input type="text" placeholder='email' className='p-2 text-black' />
+            <button className='bg-orange-600 hover:bg-orange-700 p-2'>Subscribe</button>
         </div>
 
         <div className='bg-black '>
