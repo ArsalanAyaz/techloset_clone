@@ -186,8 +186,8 @@ const Footer = () => {
             <button className='bg-orange-600 hover:bg-orange-700 p-2'>Subscribe</button>
         </div>
 
-        <div className='bg-black '>
-            <p className='text-center p-2'>Copyright @ Techloset. All rights reserved</p>
+        <div className='bg-black opacity-55 '>
+            <p className='text-center p-2 '>Copyright @ Techloset. All rights reserved</p>
         </div>
 
     </div>
