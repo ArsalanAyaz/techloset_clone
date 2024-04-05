@@ -6,14 +6,14 @@ import image2 from '../images/image2.jpeg'
 import image3 from '../images/image3.jpeg'
 import image4 from '../images/image4.jpeg'
 
-const Images = () => {
+const About_Images = () => {
   return (
     <div>
 
         
         <div className='columns-2 w-[300px]  sm:w-[500px] mt-10 mb-6 ml-8 sm:ml-[240px] shadow-2xl rounded-xl'>
 
-            <Image src={image1} alt="image" className=''/>
+            <Image src={image1} alt="image" />
             <Image src={image2} alt="image" />
             <Image src={image3} alt="image" />
             <Image src={image4} alt="image" />
@@ -25,4 +25,4 @@ const Images = () => {
   )
 }
 
-export default Images
+export default About_Images

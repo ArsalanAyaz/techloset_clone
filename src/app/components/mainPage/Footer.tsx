@@ -95,7 +95,7 @@ const Footer = () => {
                 <p className='mb-6 hover:text-orange-700'>Whatsapp: +1(916) 822 7374</p>
                 </div>
 
-            <div className='flex items-center gap-10 ml-[350px]'>
+            <div className='flex items-center gap-10 ml-[350px] sm:-mt-[250px]'>
 
 
                 <div className='hidden sm:block grid grid-cols-1 items-center justify-center text-center'>
