@@ -13,7 +13,7 @@ const Blog_Header = () => {
 
     <div>
     <div className="sm:flex sm:flex-col sm:items-center sm:justify-center">
-<div className='bg-[url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHUF5-bV47BrVJ-ZbBQxAjQ4pRVER5iSOrQ&s")]
+<div className='bg-[url("https://t4.ftcdn.net/jpg/02/22/68/39/360_F_222683930_mXWfHnOk9spCYOyEhqXNSWbWhZd4dFKF.jpg")]
  w-full h-96 bg-cover bg-center sm:flex sm:items-center sm:justify-between '>
     <div className='sm:pt-[150px] sm:mr-6 pt-20 sm:ml-6 p-4  '>
         <h1 className='sm:flex sm:items-center sm:justify-between text-white sm:text-6xl text-4xl sm:font-bold font-semibold'>TechloSet Blog</h1>
