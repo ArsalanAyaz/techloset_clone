@@ -7,7 +7,7 @@ const Main_Services = () => {
   return (
     <div>
 
-      <div className='mt-10 p-4'>
+      <div className='mt-20 p-4 '>
 
               <h1 className='text-4xl text-center mb-4 font-bold underline'> Services </h1>
               <p className='text-center'>TechloSet Solutions aspires to enhance the productivity and growth of your business by providing 'Smart Solutions' and 'Digitally Transforming' your business processes. Using latest state-of-the-art Technologies, we're providing the following services to bring life in your product.</p>
