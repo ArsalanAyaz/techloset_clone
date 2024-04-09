@@ -23,6 +23,7 @@ export default function Home() {
        <Video/>
        <Software/>
        <Contact_mainpage/>
+       <Footer/>
        
 
 
