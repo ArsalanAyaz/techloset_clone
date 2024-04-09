@@ -6,6 +6,7 @@ import Job_listings from '@/app/components/Career/Job_listings'
 import Life_at_TechloSet from '@/app/components/Career/Life_at_TechloSet'
 import Paragraph from '@/app/components/Career/Paragraph'
 import Footer from '@/app/components/mainPage/Footer'
+
 import React from 'react'
 
 const Career = () => {
@@ -18,6 +19,7 @@ const Career = () => {
           <Paragraph/>
           <Career_Images/>
           <Footer/>
+          
         
     </div>
   )
